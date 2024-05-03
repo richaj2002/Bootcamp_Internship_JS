@@ -1,0 +1,11 @@
+1. ES5 functions
+Es6 arrow functions
+3. Passing parameter to the functions
+4.Functions as properties of objects
+
+
+Homework 
+1. Writing functions in javascript
+2. Difference between Es5 and Es6 functions
+3. Write a function to add any number of integers (both es5 and es6)
+4. Calculator....just for practice
